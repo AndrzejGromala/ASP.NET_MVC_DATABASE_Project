@@ -1,0 +1,6 @@
+C:\Users\Andrzej\source\repos\MVCDataFromDatabaseToForm\MVCEmployeeDB\bin\Debug\MVCEmployeeDB.dacpac
+C:\Users\Andrzej\source\repos\MVCDataFromDatabaseToForm\MVCEmployeeDB\bin\Debug\MVCEmployeeDB.dll
+C:\Users\Andrzej\source\repos\MVCDataFromDatabaseToForm\MVCEmployeeDB\bin\Debug\MVCEmployeeDB.pdb
+C:\Users\Andrzej\source\repos\MVCDataFromDatabaseToForm\MVCEmployeeDB\obj\Debug\MVCEmployeeDB.dll
+C:\Users\Andrzej\source\repos\MVCDataFromDatabaseToForm\MVCEmployeeDB\obj\Debug\MVCEmployeeDB.pdb
+C:\Users\Andrzej\source\repos\MVCDataFromDatabaseToForm\MVCEmployeeDB\obj\Debug\MVCEmployeeDB.sqlprojAssemblyReference.cache
